@@ -1,1 +1,8 @@
 # Stock_Price_Prediction
+This project aims to analyze historical stock market data, predict future stock prices using machine learning (Linear Regression), generate Buy/Sell signals, and recommend the best stock for investment based on performance metrics like Root Mean Squared Error(RMSE) and average returns.The dataset includes stock information like INFY and TCS. The project is implemented in Google Colab and visualizes stock trends and forecasts future prices.
+# Key Features
+- Uses real historical stock price data
+- Visualizes stock trends with graphs
+- Buy/Sell Signal Generation
+- Investment Recommendation System
+- Future Forecasting (TCS)
