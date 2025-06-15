@@ -6,3 +6,14 @@ This project aims to analyze historical stock market data, predict future stock 
 - Buy/Sell Signal Generation
 - Investment Recommendation System
 - Future Forecasting (TCS)
+# Dataset
+- Dataset used: 'stock_data.csv'
+- Contains stock name, date, open, close, high, low, volume
+- The dataset used in this project is a historical stock market dataset containing records of multiple stocks over time.
+# How to Run
+1. Open the Colab notebook.
+2. Upload the `stock_data.csv` file when prompted.
+3. Run all cells to see analysis and predictions.
+# Author
+**Author:** Krishnaprasad T.R  
+**Internship Domain:** Machine Learning  
