@@ -15,8 +15,9 @@ This project aims to analyze historical stock market data, predict future stock 
 2. Upload the `stock_data.csv` file when prompted.
 3. Run all cells to see analysis and predictions.
 # OUTPUT
-The output of this project includes visual plots and prediction results generated using Linear Regression. 
-output:
+The output of this project includes visual plots and prediction results generated using Linear Regression.
+
+output:https://github.com/krishnaprasad20/Stock_Price_Prediction/blob/main/Stock_Price_Prediction.ipynb
 # Author
 **Author:** Krishnaprasad T.R  
 **Internship Domain:** Machine Learning  
